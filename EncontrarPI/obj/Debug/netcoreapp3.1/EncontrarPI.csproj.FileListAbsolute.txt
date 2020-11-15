@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\EncontrarPI\bin\Debug\netcoreapp3.1\EncontrarPI.exe
+C:\Users\Alex\source\repos\EncontrarPI\bin\Debug\netcoreapp3.1\EncontrarPI.deps.json
+C:\Users\Alex\source\repos\EncontrarPI\bin\Debug\netcoreapp3.1\EncontrarPI.runtimeconfig.json
+C:\Users\Alex\source\repos\EncontrarPI\bin\Debug\netcoreapp3.1\EncontrarPI.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\EncontrarPI\bin\Debug\netcoreapp3.1\EncontrarPI.dll
+C:\Users\Alex\source\repos\EncontrarPI\bin\Debug\netcoreapp3.1\EncontrarPI.pdb
+C:\Users\Alex\source\repos\EncontrarPI\obj\Debug\netcoreapp3.1\EncontrarPI.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\EncontrarPI\obj\Debug\netcoreapp3.1\EncontrarPI.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\EncontrarPI\obj\Debug\netcoreapp3.1\EncontrarPI.AssemblyInfo.cs
+C:\Users\Alex\source\repos\EncontrarPI\obj\Debug\netcoreapp3.1\EncontrarPI.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\EncontrarPI\obj\Debug\netcoreapp3.1\EncontrarPI.dll
+C:\Users\Alex\source\repos\EncontrarPI\obj\Debug\netcoreapp3.1\EncontrarPI.pdb
+C:\Users\Alex\source\repos\EncontrarPI\obj\Debug\netcoreapp3.1\EncontrarPI.genruntimeconfig.cache
